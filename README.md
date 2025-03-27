@@ -5,7 +5,7 @@
 - 📫 How to reach me : Sending me emails via didarhossain837463@gmail.com is cool for you.
 - 😄 Pronouns: Mr.Louis???
 - ⚡ Fun fact: A samrt brain,a robust mind,a humorous soul.
-- 📖 Motto:You can learn anything!
+- 📖 Motto: You can learn anything!
  
 - Again,thanks for your stopping by.
 
