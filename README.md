@@ -1,11 +1,11 @@
-<h1 align="center">🙌 HI, THIS IS LOUIS 🙌!</h1>
+<h1 align="center"> 🙌 HI, THIS IS LOUIS 🙌! </h1>
 
 - 👋 Hi, I’m @Louis-wemby,as Louis is the English nickname for me.Calling me 'Louis' will do.
 - 👀 I’m interested in NBA basketball.A die-hard fan of Team San Antonio Spurs@spurs,Tim Duncan,and Victor Wembanyama@Wemby.
 
-<h2 align="center"> GO SPURS GO!</h2>
+<h2 align="center"> GO SPURS GO! </h2>
 
-<h3> What i say about me:</h3>
+<h3> What i say about me: </h3>
 
 - 🗒️ I’m currently learning biology(bioinformatics,molecular biology,genomics et alia.).AI-related stuffs like deep learning also appeal to me.
 - 💞️ I’m looking to collaborate on ...Emm,maybe a soulmate.
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: A samrt brain,a robust mind,a humorous soul.
 - 📖 Motto: You can learn anything!
  
-- Again,thanks for your stopping by.
+<h3 align="center"> Again,thanks for your stopping by! </h3>
 
 <!---
 Louis-wemby/Louis-wemby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
