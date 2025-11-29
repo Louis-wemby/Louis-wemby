@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+a+college+senior+majored+in+bioinformatics+🧑🏻‍🎓;Try+explaining+Life+with+Data+📊;Currently+focusing+on+Single-Cell+%26+Spatial+Omics;Interested+in+AI+%2B+Biology+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=500&lines=<span+style='color:#9932CC;'>Hi,+I'm+a+college+senior+majored+in+bioinformatics+🧑🏻‍🎓</span>;<span+style='color:#BA55D3;'>Try+explaining+Life+with+Data+📊</span>;<span+style='color:#E0BBE4;'>Currently+focusing+on+Single-Cell+%26+Spatial+Omics+🌌</span>;<span+style='color:#8A2BE2;'>Interested+in+AI+%2B+Biology+🤖" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,10 +7,15 @@
   <h3>💡 One good idea can transform your whole future.</h3>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louis-wemby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-wemby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
-</div>
+---
+
+### 📊 Github Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -35,23 +40,7 @@
 
 </div>
 
----
-
-### 📊 Github Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis-wemby&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
 
 <div align="center">
   <sub>Let's connect and unravel the mystery of life!</sub><br>
