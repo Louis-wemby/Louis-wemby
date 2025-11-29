@@ -1,22 +1,61 @@
-<h1 align="center"> 🙌 HI, THIS IS LOUIS 🙌! </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+a+college+senior+majored+in+bioinformatics+🧑🏻‍🎓;Try+explaining+Life+with+Data+📊;Currently+focusing+on+Single-Cell+%26+Spatial+Omics;Interested+in+AI+%2B+Biology+🤖" alt="Typing SVG" />
+</div>
 
-- 👋 Hi, I’m @Louis-wemby,as Louis is the English nickname for me.Calling me 'Louis' will do.
-- 👀 I’m interested in NBA basketball.A die-hard fan of Team San Antonio Spurs@spurs,Tim Duncan,and Victor Wembanyama@Wemby.
+<div align="center">
+  <h3>🧪 Decoding the logic of life through code and models.</h3>
+  <h3>💡 One good idea can transform your whole future.</h3>
+</div>
 
-<h2 align="center"> GO SPURS GO! </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louis-wemby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-wemby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
+</div>
 
-<h3> What i say about me: </h3>
+---
 
-- 🗒️ I’m currently learning biology(bioinformatics,molecular biology,genomics et alia.).AI-related stuffs like deep learning also appeal to me.
-- 💞️ I’m looking to collaborate on ...Emm,maybe a soulmate.
-- 📫 How to reach me : Sending me emails via didarhossain837463@gmail.com is cool for you.
-- 😄 Pronouns: Mr.Louis???
-- ⚡ Fun fact: A samrt brain,a robust mind,a humorous soul.
-- 📖 Motto: You can learn anything!
- 
-<h3 align="center"> Again,thanks for your stopping by! </h3>
+### 🧬 About Me
 
-<!---
-Louis-wemby/Louis-wemby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋🏻Hi there! This is **Louis**. I'm a college student at HUST, passionate about the intersection of **Biology** and **Artificial Intelligence**.
+
+- 🔭 **I’m currently working on:** Deciphering heterogeneity in tissues using **Single-cell RNA-seq** & **Spatial Transcriptomics**.
+- 🌱 **I’m currently learning:** **Mathematical Modeling** to simulate biological dynamics and **Deep Learning** architectures for biological problems.
+- 💡 **I’m interested in:** AI for Biology (AI4Biology) and Systems Biology.
+- 🧩 **Fun Fact:** I enjoy playing and watching basketball games & exploring cross-disciplinary knowledge!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| **Languages** | **Research Tools** |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) | ![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=for-the-badge&logo=bioconductor&logoColor=white) <br> ![Seurat](https://img.shields.io/badge/Seurat-3A83F7?style=for-the-badge&logo=R&logoColor=white) <br> ![GATK](https://img.shields.io/badge/GATK-000000?style=for-the-badge) |
+
+</div>
+
+---
+
+### 📊 Github Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis-wemby&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <sub>Let's connect and unravel the mystery of life!</sub><br>
+  <a href="mailto:didarhossain837463@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
