@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>🧪 Decoding the logic of life through code and models.</h3>
-  <h3>💡 One good idea can transform your whole future.</h3>
+  <h3>💡 One good idea can transform your whole future.</h3> <img src="https://raw.githubusercontent.com/Louis-wemby/Louis-wemby/main/Images/gengar_winkq.gif" width="32" alt="Gengar.GIF" />
 </div>
 
 ---
