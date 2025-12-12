@@ -27,7 +27,7 @@
 
 | **Languages** | **Research Tools** |
 | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) | ![Bioconda](https://img.shields.io/badge/Bionconda-brightgreen?style=for-the-badge&logo=anaconda&logoColor=white) <br> ![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=for-the-badge&logo=r&logoColor=white) <br> ![Seurat](https://img.shields.io/badge/Seurat-3A83F7?style=for-the-badge&logo=R&logoColor=white) <br> ![scanpy](https://img.shields.io/badge/scanpy-orange?style=for-the-badge&logo=python&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) | ![Bioconda](https://img.shields.io/badge/Bionconda-#44A833?style=for-the-badge&logo=anaconda&logoColor=white) <br> ![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=for-the-badge&logo=r&logoColor=white) <br> ![Seurat](https://img.shields.io/badge/Seurat-3A83F7?style=for-the-badge&logo=R&logoColor=white) <br> ![scanpy](https://img.shields.io/badge/scanpy-orange?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
 
