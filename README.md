@@ -21,18 +21,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| **Languages** | **Research Tools** |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) | ![Bioconda](https://img.shields.io/badge/Bionconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) <br> ![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=for-the-badge&logo=r&logoColor=white) <br> ![Seurat](https://img.shields.io/badge/Seurat-3A83F7?style=for-the-badge&logo=R&logoColor=white) <br> ![scanpy](https://img.shields.io/badge/scanpy-orange?style=for-the-badge&logo=python&logoColor=white) |
-
-</div>
-
----
-
 ### 📊 Github Contributions
 
 <picture>
@@ -47,7 +35,7 @@
 
 <div align="center">
   <sub>Let's connect and unravel the mystery of life!</sub><br>
-  <a href="mailto:didarhossain837463@gmail.com">
+  <a href="mailto:xiongyihan@hust.edu.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
