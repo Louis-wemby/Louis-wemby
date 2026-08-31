@@ -17,7 +17,7 @@
 - 🔭 **I’m currently working on:** Deciphering heterogeneity in tissues using **Single-cell RNA-seq** & **Spatial Transcriptomics**.
 - 🌱 **I’m currently learning:** **Mathematical Modeling** to simulate biological dynamics and **Deep Learning** architectures for biological problems.
 - 💡 **I’m interested in:** AI for Biology (AI4Biology) and Systems Biology.
-- 🧩 **Fun Fact:** I enjoy playing and watching basketball games & exploring cross-disciplinary knowledge!
+- 🧩 **Fun Fact:** I enjoy playing and watching basketball games & playing Pokémon video games!
 
 ---
 
