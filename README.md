@@ -35,7 +35,7 @@
 
 <div align="center">
   <sub>Let's connect and unravel the mystery of life!</sub><br>
-  <a href="mailto:xiongyihan@hust.edu.cn">
+  <a href="mailto:xiongyihan@connect.hku.hk">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
